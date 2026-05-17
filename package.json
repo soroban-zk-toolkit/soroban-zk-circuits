@@ -1,0 +1,13 @@
+{
+  "name": "soroban-zk-circuits",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "make all",
+    "test": "echo \"No JS tests configured\" && exit 0",
+    "compile": "make compile"
+  },
+  "devDependencies": {
+    "snarkjs": "^0.7.0",
+    "circom": "^2.0.0"
+  }
+}
